@@ -12,8 +12,7 @@
 | Проект                                                                 | Описание                                         | Инструменты |
 | ---------------------------------------------------------------------- |-------------------------------------------------- | ------------ |
 | [**WeatherWise**](https://github.com/wachrusz/WeatherWise)     | iOS приложение для прогноза погоды, использующее API для актуальных данных и возможности для кэширования. Включает в себя карту, прогнозы, и возможность отображать графики погоды. | SwiftUI, Combine, Realm, CoreLocation, Charts |
-| [**CADV-iOS**](https://github.com/wachrusz/CADV-IOS) | Mobile для Cash Advisor. С использованием Swift, CoreData и параллельных операций для эффективной работы с данными. | Realm, Concurrency, SwiftUI, Keychain, etc. |
-| [**CADV**](https://github.com/wachrusz/Back-End-API)     | RESTful API для мобильного приложения Cash Advisor. Построен на Go с использованием Postgres и Docker, а также подключением CBoR API для актуальных данных.    | Ubuntu, Go, Postgres, CBoR API, Docker |
+|[**KeyLibri**](https://github.com/wachrusz/TimeLock)| iOS приложение на замену Google Authenticator| UIKit, VIPER, Realm, KeyChain etc|
 
 ---
 
